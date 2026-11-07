@@ -10,27 +10,27 @@ type LogoProps = {
   className?: string;
 };
 
-/** Horizontal lockup, 30px tall on mobile and 36px from md up, linked to home. */
+/** Horizontal lockup (mark + wordmark, no tagline), 48px tall on mobile and 56px from md up, linked to home. */
 export function Logo({ variant = "horizontal", tone = "navy", priority = false, className }: LogoProps) {
   void variant;
   const src =
     tone === "navy"
-      ? "/brand/revora-lockup-horizontal.png"
-      : "/brand/revora-lockup-horizontal-reversed.png";
+      ? "/brand/sarthak-lockup-horizontal.png"
+      : "/brand/sarthak-lockup-horizontal-reversed.png";
   return (
     <Link
       href="/"
-      aria-label="Revora Solutions home"
+      aria-label="Sarthak Talent Partners home"
       className={cn("inline-flex shrink-0 items-center rounded-sm", className)}
     >
       <Image
         src={src}
-        alt="Revora Solutions"
-        width={1188}
-        height={300}
+        alt="Sarthak Talent Partners"
+        width={1179}
+        height={480}
         priority={priority}
-        sizes="143px"
-        className="h-[30px] w-auto md:h-9"
+        sizes="140px"
+        className="h-12 w-auto md:h-14"
       />
     </Link>
   );

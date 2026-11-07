@@ -8,17 +8,16 @@ type MarkProps = {
   className?: string;
 };
 
-const RATIO = 868 / 763;
+const RATIO = 455 / 480;
 
-/** The R mark with the rising figure. Never animate or recolour. */
+/** The S mark with the figure reaching for the star. Never animate or recolour. */
 export function Mark({ tone = "navy", size = 32, className }: MarkProps) {
   return (
     <Image
-      src={tone === "navy" ? "/brand/revora-mark.svg" : "/brand/revora-mark-reversed.svg"}
-      alt="Revora Solutions"
+      src={tone === "navy" ? "/brand/sarthak-mark.png" : "/brand/sarthak-mark-reversed.png"}
+      alt="Sarthak Talent Partners"
       width={Math.round(size * RATIO)}
       height={size}
-      unoptimized
       className={cn("w-auto shrink-0", className)}
       style={{ height: size }}
     />
