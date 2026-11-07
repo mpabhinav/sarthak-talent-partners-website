@@ -74,7 +74,7 @@ export type ServicesHub = z.infer<typeof ServicesHub>;
 export const Job = z.strictObject({
   title: str,
   slug: str,
-  employer: z.enum(["revora", "client"]),
+  employer: z.enum(["sarthak", "client"]),
   location: str,
   type: z.enum(["Full-time", "Contract", "Part-time", "Internship"]),
   experience: str,

@@ -41,7 +41,7 @@ export default async function JobPage({ params }: Props) {
     <>
       <Breadcrumbs items={[{ label: "Careers", href: "/careers" }, { label: job.title }]} />
       <PageHero
-        eyebrow={job.employer === "revora" ? "At Revora" : "With our clients"}
+        eyebrow={job.employer === "sarthak" ? "At Sarthak" : "With our clients"}
         title={job.title}
         intro={job.summary}
       />

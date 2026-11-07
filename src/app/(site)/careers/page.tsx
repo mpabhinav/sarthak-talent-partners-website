@@ -35,7 +35,7 @@ export default function CareersPage() {
                     </span>
                     <span className="mt-1 block text-small text-ink-muted">
                       <Text>{job.location}</Text> · {job.type} · {job.experience} ·{" "}
-                      {job.employer === "revora" ? "At Revora" : "With our clients"}
+                      {job.employer === "sarthak" ? "At Sarthak" : "With our clients"}
                     </span>
                     <span className="mt-2 block text-fg-muted">
                       <Text>{job.summary}</Text>

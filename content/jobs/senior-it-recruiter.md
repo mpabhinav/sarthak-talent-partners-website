@@ -1,7 +1,7 @@
 ---
 title: "Senior IT Recruiter"
 slug: senior-it-recruiter
-employer: revora
+employer: sarthak
 location: "[[Hyderabad]] (on-site)"
 type: Full-time
 experience: "3–6 years"
