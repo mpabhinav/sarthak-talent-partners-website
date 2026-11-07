@@ -7,7 +7,7 @@ icon: UserRound
 summary: "Developers, cloud, data and IT specialists, screened by recruiters who know the stack."
 enquiry: hire
 seo:
-  title: "IT Recruitment Agency in [[City]]: Developers, Cloud, Data & More"
+  title: "IT Recruitment Agency in Hyderabad: Developers, Cloud, Data & More"
   description: "Hire software developers, cloud engineers, data and Salesforce specialists. Technically screened shortlists in about a week."
 hero:
   eyebrow: "Talent & Staffing"

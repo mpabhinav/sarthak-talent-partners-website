@@ -18,7 +18,7 @@ pillars:
       - { title: "Screen", text: "Every candidate is interviewed and checked by us." }
       - { title: "Place and follow up", text: "Offers, notice periods, joining, and a 90-day check-in." }
     why:
-      title: "Why hire through Revora"
+      title: "Why hire through Sarthak"
       reasons:
         - { title: "IT and non-IT under one roof", text: "One partner for your engineering team and your accounts team, with specialist recruiters for each." }
         - { title: "Quality over volume", text: "Short, explained shortlists so your managers spend time interviewing, not filtering." }
@@ -51,7 +51,7 @@ pillars:
       - { title: "Build", text: "Delivery in short, demo-able increments." }
       - { title: "Run and improve", text: "Support, maintenance and steady enhancement." }
     why:
-      title: "Why choose Revora for technology"
+      title: "Why choose Sarthak for technology"
       reasons:
         - { title: "Senior attention without big-firm overheads", text: "Experienced consultants on your project, and a blended on-site and remote team to keep costs sensible." }
         - { title: "From one specialist to a full team", text: "Start with a single consultant or hand us the whole project. Scale either way." }
@@ -82,7 +82,7 @@ pillars:
       - { title: "Parallel run", text: "One month side by side with your existing process to prove accuracy." }
       - { title: "Go live", text: "Monthly cycle with a fixed calendar and a single point of contact." }
     why:
-      title: "Why outsource payroll to Revora"
+      title: "Why outsource payroll to Sarthak"
       reasons:
         - { title: "Compliance handled", text: "Statutory deductions and filings on time, with challans and reports shared every month." }
         - { title: "Confidential by design", text: "Restricted access, encrypted files and signed confidentiality agreements." }

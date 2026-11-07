@@ -46,7 +46,7 @@ why:
   reasons:
     - { title: "Faster than a permanent search", text: "Contract roles move quickly because candidates know the terms upfront." }
     - { title: "Lower admin and risk", text: "Employment, payroll and compliance sit with us, not your HR team." }
-    - { title: "Contractors who are looked after", text: "On-time pay and a point of contact at Revora means better retention through the project." }
+    - { title: "Contractors who are looked after", text: "On-time pay and a point of contact at Sarthak means better retention through the project." }
 faqs:
   - q: "Who manages the contractor day to day?"
     a: "You do. They work in your team, on your priorities. We handle everything to do with their employment."
