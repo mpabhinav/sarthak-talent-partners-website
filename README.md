@@ -1,7 +1,12 @@
-# Revora Solutions website
+<p align="center"><img src="public/brand/sarthak-lockup-full.png" width="420" alt="Sarthak Talent Partners: People. Growth. Success."></p>
 
-Marketing website for **Revora Solutions**, an Indian recruitment, staffing, technology services and HR/payroll company.
-Tagline: *Connecting Talent with Opportunity.*
+# Sarthak Talent Partners website
+
+Marketing website for **Sarthak Talent Partners** (Sarthak Talent Partners Private Limited), an Indian recruitment, staffing, technology services and HR/payroll company based in Secunderabad, Telangana.
+Tagline: *People. Growth. Success.*
+
+- Domain: [sarthakco.in](https://sarthakco.in) (not live yet)
+- Enquiries: hello@sarthakco.in · Job applications: careers@sarthakco.in
 
 Built with Next.js 16 (App Router), React 19, Tailwind CSS v4 and shadcn/ui. Every page is statically generated, and all copy lives in Markdown files under `content/`.
 
@@ -28,7 +33,7 @@ Built with Next.js 16 (App Router), React 19, Tailwind CSS v4 and shadcn/ui. Eve
 |---|---|
 | Framework | Next.js 16 App Router, React 19, TypeScript (strict), Turbopack |
 | Styling | Tailwind CSS v4 (CSS-first `@theme` tokens in `src/app/globals.css`) |
-| Components | shadcn/ui on Radix, restyled to the Revora brand |
+| Components | shadcn/ui on Radix, restyled to the Sarthak brand |
 | Motion | `motion` (LazyMotion), always honouring `prefers-reduced-motion` |
 | Content | Markdown/MDX with YAML frontmatter, validated by `zod` at build time |
 | Fonts | Fraunces (display) and Hanken Grotesk (body) via `next/font` |
@@ -85,7 +90,7 @@ Text written as `[[like this]]` is a placeholder the client still needs to confi
 
 ```
 content/            Site copy (Markdown/MDX + frontmatter)
-public/brand/       Logo and icon files
+public/brand/       Logo and icon files (built from the client logos in assets/brand/)
 public/images/      Photography
 src/app/(site)/     Pages: home, about, services, careers, insights, contact, legal
 src/components/
@@ -118,7 +123,7 @@ Home · About · Services overview · 3 service areas (Talent & Staffing, Techno
 
 ## Before launch, the client needs to supply
 
-Legal entity name, office address, email addresses and social links; founder name, photo and story; real team photos to replace the stock images; confirmed numbers for the stats strip (hidden until then); industries served; real job openings; a Web3Forms key; and legal review of the Privacy Policy and Terms. See `PLACEHOLDERS.md` for the full, current list.
+Social links (LinkedIn) and a WhatsApp number; founder name, photo and story; real team photos to replace the stock images; confirmed numbers for the stats strip (hidden until then); industries served; real job openings; a Web3Forms key; and legal review of the Privacy Policy and Terms. See `PLACEHOLDERS.md` for the full, current list.
 
 ## Documentation
 
