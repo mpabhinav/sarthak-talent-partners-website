@@ -75,3 +75,10 @@
 - Office: Shop No 3, Sports World, 35-625, near AOC Center, Mahatma Gandhi Nagar, Seshachala Colony, East Marredpally, Secunderabad, Telangana 500026. The map embed is built from this address.
 - Short form in copy is "Sarthak" (for example "Why Sarthak", "At Sarthak"). SEO titles say Hyderabad, the city people search for.
 - The palette stays as it was: the new logo uses the same navy and gold family.
+
+## Home hero banner (7 Nov 2026)
+
+- The client supplied the home hero image (`home-hero-banner.jpg`, 1600x900). It has text built into the right side, so the hero now shows it full width: whole image at 16:9 below 1024 px, and 21:9 from 1024 px up, trimming only the top and bottom edges so the text is never cut.
+- The headline, intro and buttons now sit under the banner (headline left, intro and buttons right on desktop).
+- The shortlist card is no longer shown in the hero: it would cover the banner. Its copy stays in `content/pages/home.md`.
+- A sharper original (2x, 3200 px wide) would look crisper on high-resolution screens, if the client has one.
