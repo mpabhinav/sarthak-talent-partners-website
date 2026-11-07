@@ -1,6 +1,6 @@
-# CLAUDE.md: Revora Solutions marketing website
+# CLAUDE.md: Sarthak Talent Partners marketing website
 
-You are building the public website for **Revora Solutions**, an Indian staffing, recruitment, IT services and HR/payroll company. Tagline: **"Connecting Talent with Opportunity."**
+You are building the public website for **Sarthak Talent Partners**, an Indian staffing, recruitment, IT services and HR/payroll company. Tagline: **"People. Growth. Success."**
 
 This file is the contract. The detailed spec lives in `spec/`, the copy lives in `content/`, the brand files live in `assets/brand/`. Read them before you write code, and re-read the relevant spec file before each phase.
 
@@ -57,7 +57,7 @@ MCP servers (`.mcp.json`): `shadcn` (registry search/install), `context7` (curre
 8. **Accessibility is part of done:** WCAG 2.2 AA, keyboard nav, visible focus rings (gold 2px offset), `prefers-reduced-motion` honoured, semantic landmarks, alt text that describes.
 9. **Performance budget:** Lighthouse mobile ≥ 95 Performance, 100 Accessibility, 100 Best Practices, 100 SEO. LCP < 2.0 s, CLS < 0.05, JS on the home page < 120 KB gzip.
 10. **All business details live in one file**: `src/config/site.ts` (name, phone, email, address, socials, Web3Forms key env name). No hard-coded phone numbers or emails in components.
-11. **Logos:** use files from `assets/brand/` (copied into `public/brand/` in Phase 0). Use `revora-mark.svg` wherever the mark appears small (header, favicon fallback, footer); use the horizontal lockup PNGs at 2x for the header/footer wordmark. Never recolour or stretch the logo; never put the navy logo on navy.
+11. **Logos:** use files from `assets/brand/` (copied into `public/brand/` in Phase 0). Use `sarthak-mark.png` wherever the mark appears small (header, favicon fallback, footer); use the horizontal lockup PNGs at 2x for the header/footer wordmark. Never recolour or stretch the logo; never put the navy logo on navy.
 12. **Verify visually.** After building any page, screenshot it with Playwright at 375 px and 1280 px and actually look at the screenshots. Fix what looks off before you call it done.
 13. **Spelling:** Indian/British English (organisation, optimise, programme, centre, enrol). Currency ₹. Phone format +91 XXXXX XXXXX.
 14. Keep commits small and phase-scoped: `feat(home): hero and proof strip`.

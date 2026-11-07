@@ -56,7 +56,7 @@
 ## Phase 4
 
 - Phase 4: Breadcrumbs gained a `bare` prop (no Container) and now uses `text-fg-muted`, so it reads correctly inside the navy pillar hero (slate on navy, ink-muted on white).
-- Phase 4: tiny UI labels not in content: "How it works", "Why Revora", "Questions we hear often", "Ask us something else", "Related services", "View service", "Read the FAQs", "See the services", "Services in {pillar}", "Tools and platforms", "Billing". The pillar "How we work" title is also a UI label.
+- Phase 4: tiny UI labels not in content: "How it works", "Why Sarthak", "Questions we hear often", "Ask us something else", "Related services", "View service", "Read the FAQs", "See the services", "Services in {pillar}", "Tools and platforms", "Billing". The pillar "How we work" title is also a UI label.
 - Phase 4: service pages with `heroVisual: photo` use the matching pillar photo (no per-service photos exist, none downloaded). Staffing services therefore share one photo; the three staffing photo pages differ in copy and layout. The pillar hero applies a duotone via `mix-blend-luminosity` on a navy ground plus a navy gradient, so no new image files.
 - Phase 4: the navy "Roles we hire / Capabilities" section is optional in the content (3 services have no `list`). When absent, the steps/why/faq/related backgrounds shift (paper/white/paper/white) so white and paper still alternate and no two sections of the same colour touch. The staffing candidate note takes the opposite background of Related services.
 - Phase 4: pillar card "3 bullet highlights" are the first three `includes.items` titles of each service (no separate content field exists). Even-numbered cards drop 40px on desktop for an asymmetric grid; with an odd count the last card sits alone on the left.
@@ -65,3 +65,13 @@
 - Phase 4: the tools panel on service heroes uses the system monospace stack (no mono font is loaded) on a navy-to-blue card, with a gold slash marker per item.
 - Phase 4: hero sections for hub, pillar and service are custom (not PageHero) and are not wrapped in Reveal; every section below the fold uses Reveal or Stagger.
 - Phase 4: the only console errors in production are the two Vercel analytics script 404s outside Vercel (already known from Phase 3).
+
+## Rebrand to Sarthak Talent Partners (7 Nov 2026)
+
+- The client renamed the company from Revora Solutions to **Sarthak Talent Partners** (legal name Sarthak Talent Partners Private Limited). Domain `sarthakco.in`. The site moved to a new repo; the Revora repo is kept as it was.
+- New logo from the client's two PNGs. The header uses the lockup with the tagline cut off, shown 48/56 px tall because the TALENT PARTNERS line is unreadable any smaller. The full logo with the tagline is kept for large placements and the share image.
+- The site tagline is now the one in the logo: "People. Growth. Success." (it replaced "Connecting Talent with Opportunity").
+- Emails: `hello@sarthakco.in` for general enquiries, privacy and data requests; `careers@sarthakco.in` for job applications.
+- Office: Shop No 3, Sports World, 35-625, near AOC Center, Mahatma Gandhi Nagar, Seshachala Colony, East Marredpally, Secunderabad, Telangana 500026. The map embed is built from this address.
+- Short form in copy is "Sarthak" (for example "Why Sarthak", "At Sarthak"). SEO titles say Hyderabad, the city people search for.
+- The palette stays as it was: the new logo uses the same navy and gold family.
