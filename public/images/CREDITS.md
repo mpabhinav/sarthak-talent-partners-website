@@ -1,4 +1,4 @@
-Development stock. Replace with real Revora photos before launch.
+Development stock. Replace with real Sarthak photos before launch.
 
 | File | Subject | Photographer | Source page | Licence |
 |---|---|---|---|---|

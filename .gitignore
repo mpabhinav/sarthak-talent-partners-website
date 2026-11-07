@@ -40,12 +40,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# revora: env files (commit .env.example only)
+# sarthak: env files (commit .env.example only)
 .env
 .env*.local
 !.env.example
 
-# revora: generated test and QA output
+# sarthak: generated test and QA output
 /test-results
 /playwright-report
 /screenshots

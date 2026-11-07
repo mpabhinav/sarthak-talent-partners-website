@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Revora Solutions website kit: one-time tooling setup.
+# Sarthak Talent Partners website kit: one-time tooling setup.
 # Run from the project root (the folder that contains CLAUDE.md):
 #   bash setup/install-tooling.sh
 # Safe to re-run. Nothing here touches your global Claude config except the
