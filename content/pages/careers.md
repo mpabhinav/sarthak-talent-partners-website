@@ -1,7 +1,7 @@
 ---
 seo:
   title: "Careers and open roles"
-  description: "Open roles at Revora Solutions and with the companies we hire for. Send us your CV and a recruiter will call you when something fits."
+  description: "Open roles at Sarthak Talent Partners and with the companies we hire for. Send us your CV and a recruiter will call you when something fits."
 
 hero:
   eyebrow: "Careers"
@@ -14,11 +14,11 @@ hero:
 
 openRoles:
   title: "Open roles"
-  filters: ["All", "At Revora", "With our clients"]
+  filters: ["All", "At Sarthak", "With our clients"]
   emptyState: "No open roles right now. Send us your CV and we'll call you when something fits."
 
 life:
-  title: "Life at Revora"
+  title: "Life at Sarthak"
   paragraphs:
     - "We're a small team that moves quickly. Hierarchy is light, doors are open, and good ideas get tried, whoever they come from."
     - "You'll own your work and see its results: the candidate who got the job, the project that went live, the payroll that ran on time. When the company wins, everyone shares in it. And yes, we celebrate the festivals properly."

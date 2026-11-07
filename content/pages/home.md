@@ -1,12 +1,12 @@
 ---
 seo:
-  title: "Revora Solutions | IT & Non-IT Recruitment, Staffing, Technology and Payroll in [[City]]"
+  title: "Sarthak Talent Partners | IT & Non-IT Recruitment, Staffing, Technology and Payroll in Hyderabad"
   description: "Recruitment and staffing for IT and non-IT roles, plus cloud, data, app development and payroll services. Shortlists of people we've actually spoken to."
 
 hero:
   eyebrow: "Recruitment · Staffing · Technology · Payroll"
   headline: "We find the {swoosh}people{/swoosh} who make your next quarter work"
-  intro: "Revora is a recruitment and staffing partner for IT and non-IT roles. We screen every candidate ourselves, so you meet a short list of people worth your time. And when you need more than people, we can run the technology and payroll around them too."
+  intro: "Sarthak is a recruitment and staffing partner for IT and non-IT roles. We screen every candidate ourselves, so you meet a short list of people worth your time. And when you need more than people, we can run the technology and payroll around them too."
   primaryCta: { label: "Hire talent", href: "/contact?enquiry=hire" }
   secondaryCta: { label: "Looking for a job? See open roles", href: "/careers" }
   image: { src: "/images/home-hero.jpg", alt: "Recruiter on a call, taking notes beside a laptop" }
@@ -93,7 +93,7 @@ itNonIt:
 principles:
   eyebrow: "Why companies stay with us"
   quote: "We would rather send you three people we'd hire ourselves than thirty CVs you have to sort through."
-  attribution: { name: "[[Founder name]]", role: "Founder, Revora Solutions", photo: "/images/founder.jpg" }
+  attribution: { name: "[[Founder name]]", role: "Founder, Sarthak Talent Partners", photo: "/images/founder.jpg" }
   items:
     - { title: "Every candidate is spoken to", text: "No unscreened CVs. If someone is on your shortlist, one of our recruiters has interviewed them." }
     - { title: "One accountable person", text: "You get a named recruiter who owns your role from brief to joining, and picks up the phone." }

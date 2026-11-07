@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Contact Revora Solutions"
+  title: "Contact Sarthak Talent Partners"
   description: "Hire talent, start a technology project or hand over payroll. Tell us what you need and we'll reply within one working day."
 
 hero:

@@ -25,7 +25,7 @@ footer:
     title: "Hiring this quarter? Tell us the role."
     text: "We'll come back within one working day."
     cta: { label: "Start a brief", href: "/contact?enquiry=hire" }
-  madeIn: "Made in [[Hyderabad]]"
+  madeIn: "Made in Hyderabad"
 
 candidateNote:
   text: "Looking for a role like this?"

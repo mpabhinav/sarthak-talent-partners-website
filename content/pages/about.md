@@ -1,21 +1,21 @@
 ---
 seo:
-  title: "About Revora Solutions"
+  title: "About Sarthak Talent Partners"
   description: "A recruitment, staffing, technology and payroll partner built on screened shortlists, honest advice and on-time delivery."
 
 hero:
   eyebrow: "About us"
   headline: "A people business that also speaks technology"
-  intro: "Revora Solutions started with a simple idea: hiring goes better when the recruiter understands the work. Today we hire for IT and non-IT roles, deliver technology projects, and run payroll and HR for growing companies across [[India]]."
+  intro: "Sarthak Talent Partners started with a simple idea: hiring goes better when the recruiter understands the work. Today we hire for IT and non-IT roles, deliver technology projects, and run payroll and HR for growing companies across [[India]]."
   images:
-    - { src: "/images/about-team.jpg", alt: "Revora team discussing a hiring plan around a table" }
+    - { src: "/images/about-team.jpg", alt: "Sarthak team discussing a hiring plan around a table" }
     - { src: "/images/about-interview.jpg", alt: "Candidate smiling during an interview" }
 
 story:
   label: "01 / Story"
   paragraphs:
     - "[[Founder name]] spent [[years]] years hiring engineers and operations staff for companies that kept saying the same thing: the CVs looked right, the people didn't. Too many agencies were forwarding résumés without ever talking to the person behind them."
-    - "Revora was set up in [[year]] to do the slower, better version. Every candidate is interviewed by a recruiter before a client sees them. Every client has one person to call. That's still how we work."
+    - "Sarthak was set up in [[year]] to do the slower, better version. Every candidate is interviewed by a recruiter before a client sees them. Every client has one person to call. That's still how we work."
     - "Along the way, clients started asking for more: help with a Salesforce rollout, a data team, someone to take payroll off finance's hands. So we built those teams too, with the same rule. Do the work properly, on time, and tell the client the truth."
   signature: { name: "[[Founder name]]", role: "Founder" }
 
