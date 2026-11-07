@@ -26,7 +26,7 @@ async function loadFraunces(text: string): Promise<ArrayBuffer | undefined> {
 
 export default async function Image() {
   const logo = await fs.readFile(
-    path.join(process.cwd(), "public/brand/revora-lockup-horizontal-reversed.png"),
+    path.join(process.cwd(), "public/brand/sarthak-lockup-horizontal-reversed.png"),
   );
   const logoSrc = "data:image/png;base64," + logo.toString("base64");
   const font = await loadFraunces(site.tagline);
@@ -45,7 +45,7 @@ export default async function Image() {
         }}
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={logoSrc} alt="" width={475} height={120} />
+        <img src={logoSrc} alt="" width={442} height={180} />
         <div style={{ display: "flex", alignItems: "center", gap: 24 }}>
           <div style={{ width: 16, height: 16, borderRadius: 16, background: "#D7A449" }} />
           <div

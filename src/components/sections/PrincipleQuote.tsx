@@ -30,7 +30,7 @@ export function PrincipleQuote() {
                   aria-hidden="true"
                   className="flex size-12 shrink-0 items-center justify-center rounded-full border border-rule bg-blue"
                 >
-                  <Mark tone="reversed" size={22} />
+                  <Mark tone="reversed" size={28} />
                 </span>
                 <span>
                   <span className="block font-semibold text-white">

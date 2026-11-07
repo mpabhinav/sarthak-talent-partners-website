@@ -33,7 +33,7 @@ export default function HomePage() {
       "@type": "Organization",
       name: site.name,
       url: absoluteUrl("/"),
-      logo: absoluteUrl("/brand/revora-mark.png"),
+      logo: absoluteUrl("/brand/sarthak-mark.png"),
       slogan: site.tagline,
       ...(sameAs.length ? { sameAs } : {}),
       contactPoint: {
