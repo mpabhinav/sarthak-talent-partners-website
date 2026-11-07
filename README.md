@@ -5,7 +5,7 @@
 Marketing website for **Sarthak Talent Partners** (Sarthak Talent Partners Private Limited), an Indian recruitment, staffing, technology services and HR/payroll company based in Secunderabad, Telangana.
 Tagline: *People. Growth. Success.*
 
-- Live site: [www.sarthakco.in](https://www.sarthakco.in) (hosted on Vercel; `sarthakco.in` redirects to `www`)
+- Live site: [www.sarthakco.in](https://www.sarthakco.in)
 - Enquiries: hello@sarthakco.in · Job applications: careers@sarthakco.in
 
 Built with Next.js 16 (App Router), React 19, Tailwind CSS v4 and shadcn/ui. Every page is statically generated, and all copy lives in Markdown files under `content/`.
@@ -119,7 +119,7 @@ Home · About · Services overview · 3 service areas (Talent & Staffing, Techno
 | 4. Services pages | Done |
 | 5. About, Careers, Insights, Contact, forms, legal | Next |
 | 6. Testing, performance and accessibility hardening | To do |
-| 7. Deploy to Vercel | To do |
+| 7. Deploy | Done |
 
 ## Before launch, the client needs to supply
 
