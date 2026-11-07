@@ -2,7 +2,7 @@ export const site = {
   name: "Sarthak Talent Partners",
   legalName: "Sarthak Talent Partners Private Limited",
   tagline: "People. Growth. Success.",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://sarthakco.in",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.sarthakco.in",
   email: { general: "hello@sarthakco.in", careers: "careers@sarthakco.in" },
   phone: { display: "+91 83672 51896", tel: "+918367251896" },
   whatsapp: "+918074208483", // optional; renders a WhatsApp link in contact + footer if set
