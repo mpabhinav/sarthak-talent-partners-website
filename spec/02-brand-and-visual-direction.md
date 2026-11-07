@@ -12,7 +12,7 @@ What it should feel like: Stripe Press restraint, Monocle magazine warmth, a Swi
 
 Files: `assets/brand/` (see `assets/brand/README.md`).
 
-The mark is an R with a gold figure (a dot for the head, a swoosh for the body) rising out of it: a person stepping up. Borrow two motifs from it, and only these two:
+The mark is an S formed by a gold swoosh and a navy figure (a round head, one arm raised) reaching for a gold four-point star: a person rising towards success. The full lockup adds SARTHAK, TALENT PARTNERS and the tagline "People. Growth. Success." Borrow two motifs from it, and only these two:
 
 1. **The gold dot.** An 8–12 px gold circle used as a bullet, a list marker, a "current page" marker in the nav, and at the end of the hero headline in place of a full stop.
 2. **The swoosh.** A single gold curve (SVG path, 2–3 px stroke, round caps) used as a hand-drawn underline under one key word per page and as a rare section divider. Draw it with `motion` `pathLength` 0 → 1 once when it enters view.
@@ -126,7 +126,7 @@ Use italic Fraunces for one emphasised word in a headline at most (e.g. "people 
 ## Imagery
 
 - **Real photography of people working**: recruiters on calls, interviews across a table, developers pairing, a shop-floor supervisor, a finance team. Indian workplaces and faces. Slightly warm colour grade.
-- Source in development: Unsplash/Pexels (free licence), saved locally into `public/images/` with `next/image`. List every image and its source URL in `public/images/CREDITS.md`. Mark them as "replace with real Revora team photos" in `PLACEHOLDERS.md`.
+- Source in development: Unsplash/Pexels (free licence), saved locally into `public/images/` with `next/image`. List every image and its source URL in `public/images/CREDITS.md`. Mark them as "replace with real Sarthak team photos" in `PLACEHOLDERS.md`.
 - Treatment: radius `--radius-lg`, occasional **navy duotone** (CSS `mix-blend-mode: multiply` over navy, or pre-processed) for section backgrounds behind white text.
 - One image per section at most. Some sections get none.
 - No stock 3D renders, no isometric illustrations, no globe/circuit/handshake-cliché images, no AI-generated people.
@@ -172,6 +172,6 @@ Motion should feel like paper settling, not like an app showing off.
 - [ ] No glassmorphism, neumorphism, glow, or blurred blobs
 - [ ] No emoji anywhere
 - [ ] No stock-cliché imagery (handshakes, globes, chess pieces, light bulbs)
-- [ ] Headlines are specific to Revora, not interchangeable with any other company
+- [ ] Headlines are specific to Sarthak, not interchangeable with any other company
 - [ ] Section rhythm varies (padding, background, layout); the page does not look like the same block repeated
 - [ ] One human detail per page (hand-drawn underline, margin number, founder signature, pull quote)
