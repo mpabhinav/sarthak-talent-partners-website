@@ -5,7 +5,7 @@ export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://sarthakco.in",
   email: { general: "hello@sarthakco.in", careers: "careers@sarthakco.in" },
   phone: { display: "+91 83672 51896", tel: "+918367251896" },
-  whatsapp: "[[+919876543210]]",            // optional; renders a WhatsApp link in contact + footer if set
+  whatsapp: "+918074208483", // optional; renders a WhatsApp link in contact + footer if set
   address: {
     line1: "Shop No 3, Sports World, 35-625, near AOC Center",
     line2: "Mahatma Gandhi Nagar, Seshachala Colony, East Marredpally",
