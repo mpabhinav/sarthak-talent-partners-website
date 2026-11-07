@@ -1,6 +1,6 @@
-# Revora Solutions: website spec kit for Claude Code
+# Sarthak Talent Partners: website spec kit for Claude Code
 
-A ready-to-build kit for the Revora Solutions marketing site (Next.js 16 + Tailwind v4 + shadcn/ui, hosted on Vercel). Unzip it, open it in Claude Code, paste the kickoff prompt, and the agent builds phase by phase.
+A ready-to-build kit for the Sarthak Talent Partners marketing site (Next.js 16 + Tailwind v4 + shadcn/ui, hosted on Vercel). Unzip it, open it in Claude Code, paste the kickoff prompt, and the agent builds phase by phase.
 
 ## Quick start
 
@@ -33,7 +33,7 @@ spec/
   08-seo-performance-accessibility.md
   09-build-plan.md         Phases 0–7 with "done when" criteria
   10-qa-and-launch-checklist.md
-content/                   All site copy, written fresh for Revora (YAML frontmatter + Markdown/MDX)
+content/                   All site copy, written fresh for Sarthak (YAML frontmatter + Markdown/MDX)
   pages/                   home, about, careers, contact, shared (CTAs, footer, 404, thank-you)
   services/                hub, 3 pillars, 11 service pages
   jobs/                    2 sample openings (replace before launch)
@@ -60,7 +60,7 @@ Home · About · Services hub · **Talent & Staffing** (IT Recruitment, Non-IT R
 | vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns, writing-guidelines, deploy-to-vercel | vercel-labs/agent-skills |
 | shadcn | shadcn-ui/ui |
 
-Deliberately **left out** from the My_Claude_Setup repo: `brand-guidelines` (applies Anthropic's own brand, which would fight Revora's), `canvas-design`, `theme-factory`, `design` (logo/poster generation, not needed), `web-artifacts-builder` (for claude.ai artifacts, not Next.js) and `jj-frontend` (a product-app standard that conflicts with a marketing-site layout).
+Deliberately **left out** from the My_Claude_Setup repo: `brand-guidelines` (applies Anthropic's own brand, which would fight Sarthak's), `canvas-design`, `theme-factory`, `design` (logo/poster generation, not needed), `web-artifacts-builder` (for claude.ai artifacts, not Next.js) and `jj-frontend` (a product-app standard that conflicts with a marketing-site layout).
 
 Set `REFRESH_SKILLS=1` when running the setup script to pull the latest Vercel and shadcn skills from upstream.
 

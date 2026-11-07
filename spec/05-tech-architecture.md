@@ -97,7 +97,7 @@ export const Service = z.object({
 
 export const Job = z.object({
   title: z.string(), slug: z.string(),
-  employer: z.enum(["revora", "client"]),
+  employer: z.enum(["sarthak", "client"]),
   location: z.string(), type: z.enum(["Full-time", "Contract", "Part-time", "Internship"]),
   experience: z.string(), posted: z.coerce.date(), validThrough: z.coerce.date().optional(),
   salary: z.string().optional(), summary: z.string(), active: z.boolean().default(true),
@@ -118,11 +118,11 @@ Page content (`content/pages/*.md`) is structured frontmatter per section. Type 
 
 ```ts
 export const site = {
-  name: "Revora Solutions",
-  legalName: "[[Revora Solutions Pvt. Ltd.]]",
-  tagline: "Connecting Talent with Opportunity",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://[[revorasolutions.com]]",
-  email: { general: "[[hello@revorasolutions.com]]", careers: "[[careers@revorasolutions.com]]" },
+  name: "Sarthak Talent Partners",
+  legalName: "Sarthak Talent Partners Private Limited",
+  tagline: "People. Growth. Success.",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://[[sarthakco.in]]",
+  email: { general: "[[hello@sarthakco.in]]", careers: "[[careers@sarthakco.in]]" },
   phone: { display: "[[+91 98765 43210]]", tel: "[[+919876543210]]" },
   whatsapp: "[[+919876543210]]",            // optional; renders a WhatsApp link in contact + footer if set
   address: { line1: "[[Office line 1]]", line2: "[[Area]]", city: "[[Hyderabad]]", state: "[[Telangana]]", pin: "[[500081]]", country: "India" },

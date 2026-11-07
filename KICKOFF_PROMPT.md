@@ -4,7 +4,7 @@ Paste everything below the line into Claude Code, opened in this folder, after r
 
 ---
 
-You're building the Revora Solutions marketing website. Everything you need is in this folder.
+You're building the Sarthak Talent Partners marketing website. Everything you need is in this folder.
 
 1. Read `CLAUDE.md` first, then every file in `spec/` in numbered order, then skim `content/` and `assets/brand/README.md`. Don't write code until you've read them all.
 2. Confirm the MCP servers are connected (`shadcn`, `context7`, `playwright`). If any isn't, tell me and continue without it.

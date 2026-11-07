@@ -15,7 +15,7 @@ Use the task list for the steps inside each phase.
 5. Add Prettier + tailwind plugin, ESLint (Next config), `typecheck` script.
 6. `git init`, first commit.
 
-**Done when:** `pnpm dev` shows the default page with the Revora favicon, build passes.
+**Done when:** `pnpm dev` shows the default page with the Sarthak favicon, build passes.
 
 ## Phase 1 · Design system (≈ 2 h)
 

@@ -4,7 +4,7 @@
 
 ```
 /                                         Home
-/about                                    About Revora
+/about                                    About Sarthak
 /services                                 Services hub (all three pillars)
   /services/staffing                      Pillar hub: Talent & Staffing
     /services/staffing/it-recruitment
@@ -62,7 +62,7 @@ Contact deep links: `/contact?enquiry=hire`, `?enquiry=technology`, `?enquiry=pa
 
 Above the columns: a full-width CTA band (blue on navy): "Hiring this quarter? Tell us the role. We'll come back within one working day." + gold "Start a brief" button.
 
-Bottom bar (navy-900): © {year} [[Revora Solutions Pvt. Ltd.]] · Privacy · Terms · "Made in [[City]]".
+Bottom bar (navy-900): © {year} Sarthak Talent Partners Private Limited · Privacy · Terms · "Made in [[City]]".
 
 ## Breadcrumbs
 

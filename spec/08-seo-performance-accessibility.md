@@ -2,12 +2,12 @@
 
 ## SEO
 
-- `buildMetadata({ title, description, path, image? })` in `src/lib/seo.ts` returns Next `Metadata` with title template `%s | Revora Solutions`, canonical URL, Open Graph, Twitter card. Every page uses it. Titles and descriptions for service pages come from frontmatter `seo`.
-- Home title: "Revora Solutions | IT & Non-IT Recruitment, Staffing, Technology and Payroll Services in [[City]]".
+- `buildMetadata({ title, description, path, image? })` in `src/lib/seo.ts` returns Next `Metadata` with title template `%s | Sarthak Talent Partners`, canonical URL, Open Graph, Twitter card. Every page uses it. Titles and descriptions for service pages come from frontmatter `seo`.
+- Home title: "Sarthak Talent Partners | IT & Non-IT Recruitment, Staffing, Technology and Payroll Services in [[City]]".
 - `sitemap.ts` lists every static route + all services, jobs (active only) and posts (non-draft). `robots.ts` allows all, points to the sitemap, disallows `/thank-you`.
 - Default OG image via `app/opengraph-image.tsx` (navy, reversed lockup, tagline in Fraunces). Per-post OG images: `insights/[slug]/opengraph-image.tsx` with the title.
 - JSON-LD (render with a `<script type="application/ld+json">` helper):
-  - Home: `Organization` + `WebSite` (name, url, logo `/brand/revora-mark.png`, sameAs socials, contactPoint) and `LocalBusiness`/`EmploymentAgency` with address once confirmed.
+  - Home: `Organization` + `WebSite` (name, url, logo `/brand/sarthak-mark.png`, sameAs socials, contactPoint) and `LocalBusiness`/`EmploymentAgency` with address once confirmed.
   - Service pages: `Service` (serviceType, provider, areaServed "IN").
   - FAQ sections: `FAQPage`.
   - Jobs: `JobPosting` (title, description, datePosted, validThrough, employmentType, hiringOrganization, jobLocation). Only for active jobs.

@@ -6,8 +6,8 @@ Build these once, reuse everywhere. Use composition (children/slots) rather than
 
 | Component | Notes |
 |---|---|
-| `<Logo variant="horizontal" tone="navy \| reversed" />` | Uses `/brand/revora-lockup-horizontal(-reversed).png` via `next/image`, height 36 px desktop / 30 px mobile, `alt="Revora Solutions"`. Wrapped in a link to `/` with `aria-label="Revora Solutions home"`. |
-| `<Mark tone size />` | Inlines `revora-mark.svg` (import as a React component or `<img>`); used in the mobile header, 404, favicon fallback. |
+| `<Logo variant="horizontal" tone="navy \| reversed" />` | Uses `/brand/sarthak-lockup-horizontal(-reversed).png` via `next/image`, height 36 px desktop / 30 px mobile, `alt="Sarthak Talent Partners"`. Wrapped in a link to `/` with `aria-label="Sarthak Talent Partners home"`. |
+| `<Mark tone size />` | Renders `sarthak-mark.png` via `next/image`; used in the mobile header, 404, favicon fallback. |
 | `<GoldDot size />` | `span` 0.5em circle, `aria-hidden`. Used at the end of headlines and as bullets. |
 | `<Swoosh>word</Swoosh>` **(client)** | Wraps a word with an absolutely positioned SVG curve underneath (path below, 3 px stroke, gold, round caps). Animates `pathLength` on first view via `motion`. Static under reduced motion. Make 3 slightly different hand-drawn path variants and pick by prop so it doesn't look stamped. |
 | `<Eyebrow>` | Uppercase tracked label. Light: gold-ink. Dark: gold. Optional leading `<GoldDot>`. |

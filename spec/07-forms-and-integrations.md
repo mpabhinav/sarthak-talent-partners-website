@@ -14,7 +14,7 @@
 
 ## The forms
 
-All forms: client components, `react` `useActionState` or simple `useState` + `fetch`, zod validation on submit with inline errors next to fields, a hidden honeypot `botcheck` checkbox, a disabled + "Sending…" submit state, and on success `router.push('/thank-you?type=...')`. On network failure: inline error with the email address from `site.ts` as a fallback. Each submission sets `subject` like `"[Website] Hire talent: Senior Java Developer"` and `from_name: "Revora website"`.
+All forms: client components, `react` `useActionState` or simple `useState` + `fetch`, zod validation on submit with inline errors next to fields, a hidden honeypot `botcheck` checkbox, a disabled + "Sending…" submit state, and on success `router.push('/thank-you?type=...')`. On network failure: inline error with the email address from `site.ts` as a fallback. Each submission sets `subject` like `"[Website] Hire talent: Senior Java Developer"` and `from_name: "Sarthak website"`.
 
 ### 1. EnquiryForm (Contact page tabs + CTA deep links)
 

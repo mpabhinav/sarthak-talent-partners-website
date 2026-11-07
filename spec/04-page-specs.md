@@ -81,7 +81,7 @@ Grid shorthand: `L5 / R7` = left column 5 of 12, right column 7 of 12.
 1. **Hero** (navy, with a duotone photo on the right `R5`): breadcrumb, eyebrow, h1, intro, CTA button for the pillar's enquiry type.
 2. **Services in this pillar** (white): cards in a 2-column grid (these are links, so cards are fine): number, title, summary, 3 bullet highlights, "Explore →".
 3. **How we work** (paper): pillar-specific process (from content), numbered steps in a 4-column row.
-4. **Why Revora for this** (white): `L5` h2, `R7` three reasons as hairline list.
+4. **Why Sarthak for this** (white): `L5` h2, `R7` three reasons as hairline list.
 5. **FAQ** (paper): accordion.
 6. **CTA band**.
 
@@ -94,7 +94,7 @@ Grid shorthand: `L5 / R7` = left column 5 of 12, right column 7 of 12.
 3. **What's included** (white): `L4` h2 sticky + intro; `R8` items as a 2-column hairline list (title + 1–2 lines each).
 4. **Roles we hire / Capabilities** (navy): role families or capabilities as columns of gold-dot lists. Title comes from frontmatter `listTitle`.
 5. **How it works** (white): numbered steps, vertical on the left with big numbers, description on the right (`L3 / R9` per step).
-6. **Why Revora** (paper): three reasons, text only, with one pull-line in Fraunces italic.
+6. **Why Sarthak** (paper): three reasons, text only, with one pull-line in Fraunces italic.
 7. **FAQ** (white): accordion (shadcn Accordion), FAQPage JSON-LD.
 8. **Related services** (paper): 2–3 small link cards.
 9. **Candidate note** (staffing pages only): a one-line strip "Looking for a role like this? See open roles →".
@@ -105,8 +105,8 @@ Grid shorthand: `L5 / R7` = left column 5 of 12, right column 7 of 12.
 ## Careers (`/careers`), content: `content/pages/careers.md` + `content/jobs/*.md`
 
 1. **Hero** (white): `L7` h1 + intro + two anchors ("See open roles", "Send us your CV"). `R5`: photo of people at work, candid.
-2. **Open roles** (paper): filter chips (All / At Revora / With our clients; and by location) as client-side filters on a static list. Each job row: title (h3), tags (location, type, experience), posted date, "View role →". Empty state: "No open roles right now. Send us your CV and we'll call you when something fits." with the CV form link.
-3. **Life at Revora** (white): `L5` text, `R7` a 3-photo mosaic (`[[replace with real photos]]`).
+2. **Open roles** (paper): filter chips (All / At Sarthak / With our clients; and by location) as client-side filters on a static list. Each job row: title (h3), tags (location, type, experience), posted date, "View role →". Empty state: "No open roles right now. Send us your CV and we'll call you when something fits." with the CV form link.
+3. **Life at Sarthak** (white): `L5` text, `R7` a 3-photo mosaic (`[[replace with real photos]]`).
 4. **What you get** (navy): benefits as a hairline list.
 5. **What to expect when you apply** (white): 4 steps for candidates, honest about timelines.
 6. **General CV form** (paper): see spec/07.

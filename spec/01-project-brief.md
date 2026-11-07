@@ -2,7 +2,7 @@
 
 ## The company
 
-**Revora Solutions** is a people-and-technology services firm. It does three things:
+**Sarthak Talent Partners** is a people-and-technology services firm. It does three things:
 
 | Pillar | What it covers | Who buys it |
 |---|---|---|
@@ -10,12 +10,12 @@
 | **Technology Services** | Cloud services (Salesforce + cloud platforms), data & analytics, application development, IT consulting | CTOs, IT managers, operations heads at mid-size companies |
 | **HR & Payroll** | Payroll processing, HR operations and statutory compliance | CFOs, finance controllers, HR managers at SMEs and growing companies |
 
-Tagline from the brand sheet: **Connecting Talent with Opportunity.**
+Tagline from the brand sheet: **People. Growth. Success.**
 The four icons on the brand sheet (IT Recruitment, Non-IT Recruitment, Permanent Staffing, Candidate Sourcing & Screening) tell you what the client cares about most. Recruitment is the hero; technology and payroll are the "and we can also run this for you" story.
 
 ## Positioning (use this to make design and copy decisions)
 
-Revora is a **hands-on, mid-sized partner**, not a faceless job board and not a giant consultancy. The promise:
+Sarthak is a **hands-on, mid-sized partner**, not a faceless job board and not a giant consultancy. The promise:
 - Shortlists of people who were actually spoken to, not CV dumps
 - One accountable point of contact
 - Can staff a team *and* run the tech and payroll around it
@@ -50,4 +50,4 @@ The client has not yet supplied: legal entity name, office address, phone, email
 
 ## Success looks like
 
-A first-time visitor understands in five seconds that Revora finds people (IT and non-IT) and can also run tech and payroll, sees a real human behind it, and can send an enquiry in under a minute from any page.
+A first-time visitor understands in five seconds that Sarthak finds people (IT and non-IT) and can also run tech and payroll, sees a real human behind it, and can send an enquiry in under a minute from any page.
