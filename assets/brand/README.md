@@ -23,7 +23,7 @@ Source from Unsplash or Pexels (free licence). Indian workplaces and people, nat
 
 | File | Subject |
 |---|---|
-| `home-hero.jpg` | Portrait 4:5. A recruiter on a phone call taking notes, or a relaxed interview across a table |
+| `home-hero-desk.jpg` | Portrait 4:5. No people: a desk scene that says hiring (clipboard, pen, laptop). The client asked for no human portrait here |
 | `pillar-staffing.jpg` | Interview in progress, two people, candid |
 | `pillar-technology.jpg` | Two developers looking at one screen, or a whiteboard planning session |
 | `pillar-payroll.jpg` | Finance/HR person reviewing documents or a laptop with figures (screen content unreadable) |
