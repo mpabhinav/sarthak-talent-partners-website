@@ -2,7 +2,7 @@ Development stock. Replace with real Sarthak photos before launch.
 
 | File | Subject | Photographer | Source page | Licence |
 |---|---|---|---|---|
-| `home-hero.jpg` | Portrait (1600x2400). Man on a phone call, grey studio background. Pexels title says Indian, not verified. | Not retrieved (Pexels page blocked to automated fetch) | https://www.pexels.com/photo/serious-indian-man-talking-on-phone-5301742/ | Pexels License |
+| `home-hero-desk.jpg` | Portrait crop (1600x2000) of a landscape photo. Clipboard with a blank sheet, a white pen and an open laptop on a marble desk. No people, chosen by the client over a portrait. | Markus Winkler (from search listing; not verified on page) | https://www.pexels.com/photo/a-clipboard-near-pen-and-laptop-on-a-marble-surface-4101343/ | Pexels License |
 | `pillar-staffing.jpg` | Woman taking notes while a man points at a laptop, seated at a wooden table. Candid, Indian. | Not retrieved (Pexels page blocked to automated fetch) | https://www.pexels.com/photo/happy-indian-partners-talking-while-working-on-project-using-laptop-4308104/ | Pexels License |
 | `pillar-technology.jpg` | Man at a laptop with a woman leaning in to look at the screen. Two people, one screen. Indian. | Not retrieved (Pexels page blocked to automated fetch) | https://www.pexels.com/photo/positive-young-indian-woman-helping-husband-working-on-laptop-on-remote-project-4307866/ | Pexels License |
 | `pillar-payroll.jpg` | Woman at a desk reviewing paperwork with a calculator and laptop (screen not readable). Not Indian, and the setting is a home office, not an office. Fallback. | Not retrieved (Pexels page blocked to automated fetch) | https://www.pexels.com/photo/young-woman-managing-finances-at-home-office-6962998/ | Pexels License |

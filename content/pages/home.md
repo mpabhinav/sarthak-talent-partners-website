@@ -9,7 +9,7 @@ hero:
   intro: "Sarthak is a recruitment and staffing partner for IT and non-IT roles. We screen every candidate ourselves, so you meet a short list of people worth your time. And when you need more than people, we can run the technology and payroll around them too."
   primaryCta: { label: "Hire talent", href: "/contact?enquiry=hire" }
   secondaryCta: { label: "Looking for a job? See open roles", href: "/careers" }
-  image: { src: "/images/home-hero.jpg", alt: "Recruiter on a call, taking notes beside a laptop" }
+  image: { src: "/images/home-hero-desk.jpg", alt: "A clipboard, pen and open laptop on a marble desk" }
   shortlistCard:
     eyebrow: "Shortlist"
     role: "Senior Java Developer · Hyderabad"
