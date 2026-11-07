@@ -68,7 +68,7 @@
 
 ## Rebrand to Sarthak Talent Partners (7 Nov 2026)
 
-- The client renamed the company from Revora Solutions to **Sarthak Talent Partners** (legal name Sarthak Talent Partners Private Limited). Domain `sarthakco.in`. The site moved to a new repo; the Revora repo is kept as it was.
+- The client renamed the company from Revora Solutions to **Sarthak Talent Partners** (legal name Sarthak Talent Partners Private Limited). Domain `sarthakco.in`, served at `https://www.sarthakco.in` (the bare domain redirects to www, so canonical URLs use www). The site moved to a new repo; the Revora repo is kept as it was.
 - New logo from the client's two PNGs. The header uses the lockup with the tagline cut off, shown 48/56 px tall because the TALENT PARTNERS line is unreadable any smaller. The full logo with the tagline is kept for large placements and the share image.
 - The site tagline is now the one in the logo: "People. Growth. Success." (it replaced "Connecting Talent with Opportunity").
 - Emails: `hello@sarthakco.in` for general enquiries, privacy and data requests; `careers@sarthakco.in` for job applications.
