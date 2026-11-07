@@ -3,7 +3,7 @@ import path from "node:path";
 import { ImageResponse } from "next/og";
 import { site } from "@/config/site";
 
-export const alt = "Revora Solutions: Connecting Talent with Opportunity";
+export const alt = "Sarthak Talent Partners: People. Growth. Success.";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 

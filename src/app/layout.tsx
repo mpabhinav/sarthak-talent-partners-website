@@ -24,8 +24,8 @@ const hanken = Hanken_Grotesk({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: { default: "Revora Solutions", template: "%s | Revora Solutions" },
-  description: "Connecting Talent with Opportunity",
+  title: { default: "Sarthak Talent Partners", template: "%s | Sarthak Talent Partners" },
+  description: "People. Growth. Success.",
 };
 
 export const viewport: Viewport = {

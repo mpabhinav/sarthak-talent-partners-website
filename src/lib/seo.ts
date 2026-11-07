@@ -17,7 +17,7 @@ type BuildMetadataInput = {
   /** Absolute or root-relative image URL. Defaults to the site OG image (pages that set openGraph do not inherit the file-based one). */
   image?: string;
   noindex?: boolean;
-  /** Use the title exactly as given, without the " | Revora Solutions" suffix (home page). */
+  /** Use the title exactly as given, without the " | Sarthak Talent Partners" suffix (home page). */
   absoluteTitle?: boolean;
 };
 
