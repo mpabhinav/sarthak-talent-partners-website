@@ -5,7 +5,7 @@ updated: 2026-11-05
 # Digital Personal Data Protection Act, 2023 and its rules as they apply at the time.
 ---
 
-This policy explains how [[Revora Solutions Pvt. Ltd.]] ("Revora", "we", "us") collects and uses personal information through this website.
+This policy explains how Sarthak Talent Partners Private Limited ("Sarthak", "we", "us") collects and uses personal information through this website.
 
 ## What we collect
 
@@ -34,8 +34,8 @@ Enquiries: up to [[24 months]] after our last contact. Candidate profiles: up to
 
 ## Your choices
 
-You can ask us to access, correct or delete your information, or withdraw consent, by emailing [[privacy@revorasolutions.com]]. We'll respond within [[30 days]].
+You can ask us to access, correct or delete your information, or withdraw consent, by emailing hello@sarthakco.in. We'll respond within [[30 days]].
 
 ## Contact
 
-[[Grievance officer name]], [[Revora Solutions Pvt. Ltd.]], [[address]]. Email: [[privacy@revorasolutions.com]].
+[[Grievance officer name]], Sarthak Talent Partners Private Limited, Shop No 3, Sports World, 35-625, near AOC Center, Mahatma Gandhi Nagar, Seshachala Colony, East Marredpally, Secunderabad, Telangana 500026. Email: hello@sarthakco.in.

@@ -4,7 +4,7 @@ updated: 2026-11-05
 # TEMPLATE: must be reviewed by the client's legal adviser before launch.
 ---
 
-These terms apply to your use of this website, operated by [[Revora Solutions Pvt. Ltd.]] ("Revora").
+These terms apply to your use of this website, operated by Sarthak Talent Partners Private Limited ("Sarthak").
 
 ## Using the site
 
@@ -16,11 +16,11 @@ We work to keep content accurate, but it's provided for general information. It 
 
 ## Job listings
 
-Roles listed "with our clients" are advertised on behalf of those employers. Applying doesn't guarantee an interview or offer. We never charge candidates a fee for placement. If anyone claiming to represent Revora asks you for money, please report it to [[hello@revorasolutions.com]].
+Roles listed "with our clients" are advertised on behalf of those employers. Applying doesn't guarantee an interview or offer. We never charge candidates a fee for placement. If anyone claiming to represent Sarthak asks you for money, please report it to hello@sarthakco.in.
 
 ## Intellectual property
 
-The Revora name, logo and site content belong to Revora or its licensors. Please don't reuse them without permission.
+The Sarthak name, logo and site content belong to Sarthak or its licensors. Please don't reuse them without permission.
 
 ## Links
 
@@ -28,7 +28,7 @@ We may link to other websites. We're not responsible for their content or privac
 
 ## Liability
 
-To the extent the law allows, Revora isn't liable for losses arising from use of this website.
+To the extent the law allows, Sarthak isn't liable for losses arising from use of this website.
 
 ## Governing law
 
@@ -36,4 +36,4 @@ These terms are governed by the laws of India, with courts in [[Hyderabad]] havi
 
 ## Contact
 
-[[hello@revorasolutions.com]]
+hello@sarthakco.in
