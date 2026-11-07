@@ -4,7 +4,7 @@ import { buildMetadata } from "@/lib/seo";
 
 export const metadata = buildMetadata({
   title: getLegal("privacy").title,
-  description: "How Revora Solutions collects, uses and protects personal information on this website.",
+  description: "How Sarthak Talent Partners collects, uses and protects personal information on this website.",
   path: "/privacy",
 });
 

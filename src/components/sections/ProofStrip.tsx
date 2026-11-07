@@ -17,7 +17,7 @@ export function ProofStrip() {
   if (!site.flags.showStats) return null;
   const { stats } = getPage("home");
   return (
-    <section aria-label="Revora in numbers" className="bg-white pb-16 md:pb-24">
+    <section aria-label="Sarthak in numbers" className="bg-white pb-16 md:pb-24">
       <Container>
         <Reveal>
           <dl className="grid grid-cols-2 border-y border-line lg:grid-cols-4">

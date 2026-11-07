@@ -11,7 +11,7 @@ type Props = {
   bg?: "white" | "paper";
 };
 
-/** "Why Revora": L5 heading (and pull-line), R7 reasons as a hairline list. Text only. */
+/** "Why Sarthak": L5 heading (and pull-line), R7 reasons as a hairline list. Text only. */
 export function WhyList({ title, reasons, pullLine, bg = "white" }: Props) {
   return (
     <Section bg={bg} spacing="md" aria-labelledby="why-title">

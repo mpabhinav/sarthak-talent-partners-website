@@ -13,7 +13,7 @@ const heading = getPage("home").insightsTeaser.title;
 
 export const metadata = buildMetadata({
   title: "Insights",
-  description: "Notes on hiring, payroll and technology from the Revora team.",
+  description: "Notes on hiring, payroll and technology from the Sarthak team.",
   path: "/insights",
 });
 

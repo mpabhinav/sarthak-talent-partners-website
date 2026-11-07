@@ -81,7 +81,7 @@ export default async function ServicePage({ params }: Props) {
       {service.list ? <DarkGroupedList title={service.list.title} groups={service.list.groups} /> : null}
       <StepsList title="How it works" steps={service.steps} bg={stepsBg} />
       <WhyList
-        title="Why Revora"
+        title="Why Sarthak"
         reasons={service.why.reasons}
         pullLine={service.why.pullLine}
         bg={whyBg}

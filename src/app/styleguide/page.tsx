@@ -704,7 +704,7 @@ export default function StyleguidePage() {
 
         <div className="mt-16 grid gap-12 md:grid-cols-12 md:gap-x-6">
           <div className="md:col-span-6">
-            <Caption>Count up (demo values, not Revora figures)</Caption>
+            <Caption>Count up (demo values, not Sarthak figures)</Caption>
             <dl className="grid grid-cols-2 gap-6 border-t border-navy pt-6">
               <div>
                 <dt className="text-small text-ink-muted">Demo A</dt>
@@ -733,7 +733,7 @@ export default function StyleguidePage() {
       </Section>
 
       <Container className="py-8">
-        <p className="text-small text-ink-muted">Revora Solutions design system. Not linked from the site.</p>
+        <p className="text-small text-ink-muted">Sarthak Talent Partners design system. Not linked from the site.</p>
       </Container>
     </main>
   );

@@ -4,7 +4,7 @@
 @plugin "@tailwindcss/typography";
 
 /*
-  Revora design tokens. Three layers:
+  Sarthak design tokens. Three layers:
   1. Primitive: brand + derived colours, fonts, radii, easings (the @theme block, spec/02).
   2. Semantic: shadcn variables and role aliases (:root), flipped by [data-tone="dark"].
   3. Component: lives next to each component as utility classes.
